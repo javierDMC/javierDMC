@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm JavierDMC</h1>
 
 <img 
-src="[https://giphy.com/embed/FspLvJQlQACXu/giphy.gif](https://tenor.com/view/hello-it-have-you-tried-turning-it-off-and-on-again-telephone-on-call-gif-15495555)"
+src="https://giphy.com/embed/FspLvJQlQACXu/giphy.gif"
 />
 
 
