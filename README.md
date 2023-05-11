@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm JavierDMC</h1>
 
-<img 
-src="https://giphy.com/embed/FspLvJQlQACXu/giphy.gif"
+<img align="center"
+    src="https://media.giphy.com/media/zyclIRxMwlY40/giphy.gif"
 />
 
 
