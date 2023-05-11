@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm JavierDMC</h1>
 
-<iframe src="https://giphy.com/embed/FspLvJQlQACXu" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/made-by-me-the-it-crowd-FspLvJQlQACXu">via GIPHY</a></p>
+<img 
+src="https://giphy.com/embed/FspLvJQlQACXu" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/made-by-me-the-it-crowd-FspLvJQlQACXu">via GIPHY</a></p>
+/>
   
 <h3 align="center">A web developer from Valencia</h3>
 
