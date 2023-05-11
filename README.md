@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm JavierDMC</h1>
 
 <img 
-src="https://giphy.com/embed/FspLvJQlQACXu.gif"
+src="https://giphy.com/embed/FspLvJQlQACXu/giphy.gif"
 />
   
 <h3 align="center">A web developer from Valencia</h3>
