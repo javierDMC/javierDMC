@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm JavierDMC</h1>
 
 <img
-    src="<iframe src="https://giphy.com/gifs/made-by-me-the-it-crowd-FspLvJQlQACXu"</p>"
+    src="https://giphy.com/gifs/made-by-me-the-it-crowd-FspLvJQlQACXu"</p>"
     width="200"
   />
   
