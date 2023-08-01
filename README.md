@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/javierDMC](https://github.com/javierDMC)
 
-- 💬 Ask me about **JavaScript, PHP, Java**
+- 💬 Ask me about **Java, JSP, JavaScript, PHP**
 
 - 📫 How to reach me **ustrinum@gmail.com**
 
