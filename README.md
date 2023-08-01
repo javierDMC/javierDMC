@@ -6,7 +6,7 @@
 />
 </div>
 
-- 🔭 I’m currently working on GMV(https://www.gmv.com/)
+- 🔭 I’m currently working on Adding Technology(https://www.addingtechnology.es/)
 
 - 🌱 I’m currently learning **Spring and Vue**
 
