@@ -8,11 +8,11 @@
 
 - 🔭 I’m currently working on Adding Technology(https://www.addingtechnology.es/)
 
-- 🌱 I’m currently learning **Spring and Vue**
+- 🌱 I’m currently learning **Spring, Vue and PL/SQL**
 
 - 👨‍💻 All of my projects are available at [https://github.com/javierDMC](https://github.com/javierDMC)
 
-- 💬 Ask me about **Java, JSP, JavaScript, PHP**
+- 💬 Ask me about **Java, JSP, JavaScript, PHP, PL/SQL**
 
 - 📫 How to reach me **ustrinum@gmail.com**
 
